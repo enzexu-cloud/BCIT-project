@@ -1,0 +1,4 @@
+"./P2Int_C2new.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
