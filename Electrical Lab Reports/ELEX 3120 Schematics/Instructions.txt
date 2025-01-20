@@ -1,0 +1,9 @@
+To include the potentiometer component do the following:
+
+1) Copy the all the files into the local folder of your LTSpice schematic
+
+2) Insert a component and change the directory to point to the local folder
+
+3) Add LTSpice directive ".include potentiometer.sub" to layout (shortcut key is 'S') 
+
+See PotentiometerExample.asc for an example
