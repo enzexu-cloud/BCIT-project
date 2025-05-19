@@ -1,0 +1,12 @@
+﻿ITEM,Mfr. #,Description ,Quantity,Cost/Unit,Total
+Accelerometer,410-097,PmodACL - 3-axis Accelerometer,3, $21.74 , $65.22 
+Charger,X521365,5pcs TP4056  Lithium Battery Charger Module (5V 1A),1, $22.99 , $22.99 
+Regulator,HT7333-A,Linear Voltage Regulator IC ,10, $0.67 , $6.74 
+Diode,1N5819,Diode 40 V 1A Through Hole DO-41,10, $0.24 , $2.38 
+MCU,3591,ESP32 Huzzah32 Transceiver,3, $33.80 , $101.40 
+Solar panel,MPT3.6-75,Solar Cell 180 mW 5.5 V,3, $15.81 , $47.43 
+MOSFET,FQP27P06,MOSFET P-CH 60V 27A TO220-3,3, $4.43 , $13.29 
+Container,PTK-18420-C,"Box Plastic, Cover Included 109.98mm x 80.00mm x 70.10mm",3, $17.63 , $52.89 
+Battery,USE-18650-2200PCBJST,18650 3.7 V Lithium-Ion Battery Rechargeable (Secondary) 2.2Ah,3, $12.76 , $38.27 
+PCB board,SBB1002-1,"Breadboard, General Purpose Non-Plated Through Hole (NPTH) ",3, $1.76 , $5.28 
+,,,,, $355.89 
