@@ -12,6 +12,7 @@ Program the PLC elevator to respond to calls made from floors 1-3.
 
 • The elevator never moves below Floor 1 or above Floor 3.
 
+
 Part 2: Inside Panel
 
 Program the PLC elevator to respond to requests to move to one of three floors.
@@ -19,6 +20,7 @@ Program the PLC elevator to respond to requests to move to one of three floors.
 • Passengers can request to go to a corresponding floor with PB1, PB2, and PB3.
 
 • IL1, IL2, and IL3 should notify the passenger the request is accepted.
+
 
 Part 3: Elevator Door
 
@@ -38,6 +40,7 @@ Program the PLC elevator to open and close the elevator door to allow passengers
 
 • Program the door with a separate state machine.
 
+
 Part 4: Emergency Stop
 
 Program the PLC elevator to stop in the event of an emergency.
@@ -56,6 +59,7 @@ Program the PLC elevator to stop in the event of an emergency.
 
 • After a reset, the elevator returns to the 1st floor with the door closed.
 
+
 Part 5: Four-Floor Elevator
 
 Program the PLC elevator to service all four floors.
@@ -68,6 +72,7 @@ Program the PLC elevator to service all four floors.
 
 • IL4 notifies the passenger that the request is accepted.
 
+
 Part 6: Multiple Calls/Requests
 
 Program the PLC elevator to respond to multiple simultaneous calls or requests for any floor.
@@ -77,6 +82,7 @@ Program the PLC elevator to respond to multiple simultaneous calls or requests f
 • The elevator maintains its direction until the highest/lowest request/call is serviced.
 
 • The elevator must never repeatedly service two floors ignoring other floors.
+
 
 Part 7: Statistical Analysis
 
@@ -95,6 +101,7 @@ o Ends when the door closes after arriving at the floor.
 • Record the date and time when the floor was serviced.
 
 • Use an Add-On Instruction for this part.
+
 
 Part 8: Fault Detection
 
